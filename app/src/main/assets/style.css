@@ -1,0 +1,175 @@
+/* Morning dashboard — styled for a 7" e-ink WebView (Boox Go 7). */
+
+* { -webkit-tap-highlight-color: transparent; }
+
+html {
+  scroll-behavior: auto;
+}
+
+body {
+  background: #ffffff;
+  color: #000000;
+  font-family: Georgia, serif;
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 18px 20px 60px 20px;
+}
+
+h1 {
+  font-size: 26px;
+  margin: 0 0 2px 0;
+  font-weight: normal;
+  display: inline-block;
+}
+
+.titlebar {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+button.gear {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  background: none;
+  border: 2px solid #000000;
+  border-radius: 6px;
+  width: 44px;
+  height: 44px;
+  line-height: 1;
+  padding: 0;
+}
+
+p.date {
+  font-size: 17px;
+  margin: 0 0 22px 0;
+}
+
+h2 {
+  font-size: 15px;
+  font-family: Helvetica, Arial, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-bottom: 2px solid #000000;
+  padding-bottom: 4px;
+  margin: 30px 0 12px 0;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 18px;
+  margin: 18px 0 4px 0;
+}
+
+ul.chk { list-style: none; margin: 0; padding: 0; }
+ul.chk li { padding: 9px 0; border-bottom: 1px solid #cccccc; min-height: 48px; }
+ul.chk label { display: block; }
+
+input.box {
+  width: 26px;
+  height: 26px;
+  vertical-align: middle;
+  margin: 0 12px 0 0;
+}
+
+p.pr {
+  margin: 0 0 14px 0;
+  padding-left: 16px;
+  border-left: 3px solid #999999;
+}
+
+p.sub {
+  font-size: 16px;
+  color: #444444;
+  margin: 3px 0 0 38px;
+  line-height: 1.4;
+}
+
+span.tm {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #444444;
+  margin-left: 6px;
+}
+
+p.dev {
+  font-size: 17px;
+  margin: 0 0 14px 0;
+  padding: 8px 12px;
+  border: 2px solid #000000;
+}
+
+p.foot { font-size: 16px; margin-top: 34px; }
+
+a { color: #000000; }
+
+ul.g { margin: 0 0 10px 0; padding-left: 24px; font-size: 18px; }
+ul.g li { padding: 2px 0; }
+
+ul.epigraph { list-style: none; margin: 0 0 16px 0; padding: 0; font-style: italic; }
+ul.epigraph li { padding: 4px 0; }
+
+hr.sep { border: none; border-top: 2px solid #000000; margin: 34px 0 0 0; }
+
+.note {
+  font-size: 15px;
+  color: #444444;
+  margin: 0 0 10px 0;
+}
+
+.local-only-label {
+  font-size: 13px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #444444;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0 0 6px 0;
+}
+
+.habit-msg {
+  font-size: 15px;
+  padding: 8px 0;
+}
+
+.habit-msg.offline {
+  border: 2px solid #000000;
+  padding: 8px 12px;
+}
+
+/* Settings, behind the gear icon */
+.settings-overlay {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(255,255,255,0.96);
+  padding: 24px 20px;
+  overflow-y: auto;
+}
+
+.settings-overlay[hidden] { display: none; }
+
+.settings-overlay h2 { margin-top: 0; }
+
+.settings-overlay input[type="password"] {
+  font-size: 18px;
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #000000;
+  margin-bottom: 12px;
+}
+
+.settings-overlay button {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  padding: 12px 18px;
+  border: 2px solid #000000;
+  background: #ffffff;
+  margin: 0 10px 10px 0;
+  min-height: 48px;
+}
+
+.settings-status {
+  font-size: 16px;
+  margin: 14px 0;
+}

@@ -1,0 +1,345 @@
+{
+  "vision": "I treasure Jesus above everything else (Deut. 6:4-9). I live this, love this, and teach this.",
+
+  "mission": [
+    { "heading": "To be a good man", "text": [] },
+    { "heading": "To be a good husband", "text": [
+      "I love Ruthie more than anyone else on earth (1 Tim. 3:2; Eph. 5:25)."
+    ]},
+    { "heading": "To be a good dad", "text": [
+      "I cherish my family, and choose them above ministry, ambitions, and personal ease.",
+      "I will not lose what matters most."
+    ]},
+    { "heading": "To be a good pastor", "text": [
+      "I believe God's mission for my life is to make much of him by serving others through biblical, urgent, and straightforward teaching.",
+      "I will not fail morally and defile Christ's name."
+    ]},
+    { "heading": "To be a good friend", "text": [
+      "I rejoice with those who rejoice, and weep with those who weep. I seek first to understand rather than be understood. I am friendly with all and intimate with few, and I let those few be well-tested.",
+      "I become a good friend when I can have words of wisdom and discernment flowing from the Scripture. I cut into situations with the word of God, through immersing myself in the study of the word of God, so that when I come out of my study to speak, I have something worth saying (1 Cor. 6)."
+    ]},
+    { "heading": "To be a good worker", "text": [
+      "I become excellent in the vocations that God brings before me."
+    ]},
+    { "heading": "To live a good life", "text": [
+      "I live in the way I shall wish I had, when I come to die.",
+      "My great goal in life is to come to the end of it all, having honored Christ. Being able to say, though I fell seven times (Proverbs 24:16), I got back up."
+    ]}
+  ],
+
+  "header_quotes": [
+    "The fear of the Lord is the beginning of knowledge.",
+    "Love the Lord your God with all your heart, soul, mind, and strength.",
+    "You shall love your neighbor as yourself."
+  ],
+
+  "sections": [
+    {
+      "name": "Daily Drivers",
+      "weight": 3,
+      "items": [
+        "Christ is the desire of my soul. I want him above everything else.",
+        "I am not condemned by my sins. I am right with God because Christ did what was right on my behalf.",
+        "I am not tolerated by God, I am celebrated, enjoyed, even danced over (Zeph. 3:17).",
+        "I don't hide my failures, I bring them to the light so that I can grow.",
+        "I don't get distracted. I focus on what matters most (2 Tim. 2:4).",
+        "By being selectively obsessive, I enter into flow disproportionately more than my peers.",
+        "I grow at such a rate that my progress is evident to all (1 Tim. 4:15; 2 Tim. 2:4).",
+        "It is a great day to be alive, because God is alive.",
+        "I wake up with purpose, direction, and meaning every day of my life.",
+        "I am disciplined. Christ in me is stronger than the sinful desires in me.",
+        "Pain is the path to strength (Romans 8; Zech. 13:9).",
+        "I rejoice in suffering because Christ's death ensures none of it is wasted and my attitude turns obstacles into opportunities.",
+        "I am growing closer to Jesus every week.",
+        "Because of him, my faith is deeper, my family is closer, my body is stronger, my leadership is sharper.",
+        "I cultivate future leaders by identifying, training, and empowering faithful men who will be able to teach others also.",
+        "I am not afraid to lead. I am not ashamed to follow (Deut. 1:9-18; Isaiah 41:10; John 13:1-17).",
+        "I impact the world by beginning with my little corner of it.",
+        "I am becoming who God made me to be. I am becoming my true self. I am becoming who I am.",
+        "All this is already, but not yet."
+      ]
+    },
+    {
+      "name": "Inbox",
+      "weight": 1,
+      "items": [
+        "I believe preaching can change the world.",
+        "You have got to feed your fire.",
+        "Love, not accomplishment, is the mark of Christian maturity.",
+        "You are a human being, not a human doing.",
+        "Charlie Kirk used to call the president and say, \"Sir, we have a country to save.\" Every morning we should wake up and humbly pray, \"Lord, we have a country to save. Use me as you see fit.\"",
+        "Low ego, high accountability. Welcome feedback. Crave excellence.",
+        "Resilient under pressure.",
+        "Individually excellent, team-booster and elevator.",
+        "Combine unique creativity with high execution.",
+        "Love, compassion, listening, and loyalty.",
+        "Hunger, humility, grit, and teachability.",
+        "Hunger, humility, grit, and eternity.",
+        "Know that apart from Christ you can do nothing of eternal worth (John 15).",
+        "It does not matter what else you get right, if your heart is not right with God.",
+        "\"Keep your heart with all vigilance, for from it flow the springs of life.\" Proverbs 4:23",
+        "\"But seek first the kingdom of God and his righteousness, and all these things will be added to you.\" Matthew 6:33",
+        "Honor women, in public and in private.",
+        "I was made for more. I will fight this war.",
+        "You are always becoming. Who you will be is determined by who you are now. And who you are now can always change by God's grace.",
+        "This is the last chance you will ever get to live on [today's date]. There are Kairos moments in time today. Unique opportunities only available at this juncture in time. There are good works prepared beforehand today, which you will never get the opportunity to do again (Ephesians 2:10). Redeem the time.",
+        "Attention to detail.",
+        "All in, all the time (Romans 12:3-11).",
+        "Progress is better than perfect. You don't want perfect to become the enemy of good.",
+        "To strive for more than orthodoxy. Not to simply know about God, but to know God himself. That in prayer, by experience, I could walk with God.",
+        "\"The greatest need of my people is my personal holiness.\" Robert Murray McCheyne",
+        "To smart with pain at the brevity of life as long as I am able; and despite a world that would tell me otherwise, to continually think of death, and how that should affect my actions.",
+        "Not to live with a morbid sense of dying, but an urgent sense of living!",
+        "I commonly hear people expressing regrets, wishing that they had spent a season of their life in a different way, i.e. \"I wish I had done better in school, I had the potential to do well but I didn't apply myself.\" I resolve to think to myself, \"What regrets will I have at the end of this season I am in?\" And to violently surge against them. So as to have no regrets and say at the end, \"Sinner though I am, I did the best I could. I am going to keep going.\"",
+        "Resolved to realize my sin is against God first but not to end with that, but to wake myself up by whatever means necessary and to realize it is hardly ever a sin against God and him only, but it affects my future wife, my future children, my future congregation, my current church, my current friends, lost or saved, and my current family. Whether through opportunities lost, prayer not given, encouragement not offered, or simply a lack of that spirit of power, love and self-control. To realize that though it is \"against thee only have I sinned, Lord,\" that it is also against many others.",
+        "To study the scriptures so steadily, constantly, and frequently that I may find and plainly perceive myself to grow in the knowledge of the same. (Jonathan Edwards)",
+        "I want to continually read! To aim at reading daily more than 20 pages of a book outside the Bible. In a year excluding weekends that is 5,200 pages. An average book is 240 pages.",
+        "I want to rest in him. I want it to be evident that anxiety is not a driving force for me, but love is.",
+        "Live a life of love.",
+        "\"Let all that you do be done in love.\" 1 Corinthians 16:14",
+        "\"Let love be genuine.\" Romans 12:9",
+        "A pastor should be able to preach, pray, or die at a moment's notice.",
+        "To pretend I had done the same sin as the person I am ministering to, and to act with that humility. (Jonathan Edwards)",
+        "If I see something in someone else that I think would be praiseworthy in myself, to imitate it. (Jonathan Edwards)",
+        "To be slow to speak about things I haven't experienced.",
+        "\"If we please him, does it matter who we displease? And if we displease him, does it matter whom we please?\" Ravenhill",
+        "To do what you can to not be alone with a woman, excluding family.",
+        "Every day do something that sucks. No pain, no gain. No pressure, no diamond. No fire, no refinement. No difficulty, no success. In order to get what you want, you have to do what you don't want. The more disciplined you are, the more joy you will experience. The more disciplined you are, the more freedom you will experience.",
+        "\"God gave you existence. Don't rest till you know why. Then pray that and pursue that with all your might.\" Piper",
+        "\"I shall not fall into the falsehood that this day, or any day, is merely another ambiguous and plodding twenty-four hours, but rather a unique event, filled, if I so wish, with worthy potentialities. I shall not be fool enough to suppose that trouble and pain are wholly evil parentheses in my existence, but just as likely ladders to be climbed toward moral and spiritual manhood.\" Kilby",
+        "\"I shall not demean my own uniqueness by envy of others. I shall stop boring into myself to discover what psychological or social categories I might belong to. Mostly I shall simply forget about myself and do my work.\" Kilby",
+        "\"I shall open my eyes and ears. Once every day I shall simply stare at a tree, a flower, a cloud, or a person. I shall not then be concerned at all to ask what they are but simply be glad that they are. I shall joyfully allow them the mystery of what Lewis calls their 'divine, magical, terrifying and ecstatic' existence.\" Kilby",
+        "\"I shall sometimes look back at the freshness of vision I had in childhood and try, at least for a little while, to be, in the words of Lewis Carroll, the 'child of the pure unclouded brow, and dreaming eyes of wonder.'\" Kilby",
+        "\"I shall follow Darwin's advice and turn frequently to imaginative things such as good literature and good music, preferably, as Lewis suggests, an old book and timeless music.\" Kilby",
+        "\"I shall not allow the devilish onrush of this century to usurp all my energies but will instead, as Charles Williams suggested, 'fulfill the moment as the moment.' I shall try to live well just now because the only time that exists is now.\" Kilby",
+        "\"Even if I turn out to be wrong, I shall bet my life on the assumption that this world is not idiotic, neither run by an absentee landlord, but that today, this very day, some stroke is being added to the cosmic canvas that in due course I shall understand with joy as a stroke made by the architect who calls himself Alpha and Omega.\" Kilby",
+        "Change happens by feeding the imagination new beauties.",
+        "\"Read the Bible praying, 'Father, hold my mind's attention. Wake my heart's affection. Speak for your glory and my holy joy.'\" Piper",
+        "\"O God of wonder, enlarge my capacity to be amazed at what is amazing, and end my attraction to the insignificant.\" Piper",
+        "Manliness: feel something without crying at everything.",
+        "My wife's greatest need is my own personal holiness. My friend's greatest need, my church's greatest need, my children's greatest need, is my own personal holiness."
+      ]
+    },
+    {
+      "name": "Family",
+      "weight": 1,
+      "items": [
+        "Two non-negotiables of life are unhurried time with God, and unhurried time with my family.",
+        "I will not spend all my time ministering to others, when I have failed to minister to my own family.",
+        "We value time with each other over things we can buy. We value experiences over items.",
+        "God could call me to a different covering, and he could even call me to a different church. But he will never call me to a different family.",
+        "The most important work I will ever do is in the home.",
+        "A pastor once told me that he went in front of his congregation and brought his wife. Then he told them, \"Listen. I have three top priorities in my life. My faith is first, my family is second, and my flock is third. Now you make it in the top three! But you are the third after my family.\"",
+        "I spend equal or more evenings at home than I do away.",
+        "I want to have zeal without burnout so my family doesn't get scorched."
+      ]
+    },
+    {
+      "name": "Friendships",
+      "weight": 1,
+      "items": [
+        "Others can and you cannot. If you want to live holy unto the Lord, then others can and you cannot.",
+        "Be willing to stand alone for God.",
+        "\"How people treat you should never define you. It's not what you're called, it's what you answer to.\" Crawford Loritts",
+        "\"Do not trust to the cheering, for those very persons would shout as much if you and I were going to be hanged.\" Oliver Cromwell",
+        "Don't believe the hype.",
+        "\"Now when he was in Jerusalem at the Passover Feast, many believed in his name when they saw the signs that he was doing. But Jesus on his part did not entrust himself to them, because he knew all people and needed no one to bear witness about man, for he himself knew what was in man.\" John 2:23-25",
+        "Although the world will reject us, and even friends will betray us, the Lord has given us true friends nonetheless. The church is a family, and family sticks together.",
+        "If at all possible, do not work alone (Prov. 18:1). You are not in friendly territory and isolation is danger. While loving and trusting others makes you vulnerable to hurt, isolation is its own vulnerability.",
+        "Lone wolves don't exist; they travel in packs. If a wolf is traveling alone, it is not healthy. Your pack may be small, but it is a pack nonetheless.",
+        "Be courteous to all but intimate with few. And let those few be well tested.",
+        "\"After this the Lord appointed seventy-two others and sent them on ahead of him, two by two, into every town and place where he himself was about to go.\" Luke 10:1",
+        "\"In an abundance of counselors there is safety.\" Proverbs 11:14",
+        "\"He who walks with the wise will become wise, but the companion of fools will suffer harm.\" Proverbs 13:20",
+        "\"Be not wise in your own eyes; fear the Lord, and turn away from evil. It will be healing to your flesh and refreshment to your bones.\" Proverbs 3:7",
+        "Regard your own conclusions with a healthy amount of suspicion.",
+        "Live to love.",
+        "Seek to understand before being understood.",
+        "Make it a point to understand your friends' passions, purposes, personality, giftings, and experiences. (SHAPE: Strengths, Heart, Attitude or natural abilities, Personality, Experiences)",
+        "I want to help people identify and unlock inherent potential. What is holding us back is not our starting position but our starting assumptions.",
+        "Be known in arguments as the de-escalator.",
+        "People don't care what you know until they know that you care.",
+        "Resolved: to act, not react.",
+        "\"A soft answer turns away wrath, but a harsh word stirs up anger.\" Proverbs 15:1",
+        "To value silence.",
+        "To listen to people, not just wait to be heard, not just to be polite, but to show the worth of a person by giving them my attention. Whether it be a child or an angel. (Prov. 18:2)",
+        "\"A wise man speaks because he has something to say; a fool speaks because he has to say something.\" A wise man once said nothing. Silence at times is wisdom. I want to be that wise man.",
+        "As a principle, to wait a conscious second or two before giving an answer to someone.",
+        "You don't have to compromise your position to understand someone else's.",
+        "Speak the truth in love.",
+        "\"But we have renounced disgraceful, underhanded ways. We refuse to practice cunning or to tamper with God's word, but by the open statement of the truth we would commend ourselves to everyone's conscience in the sight of God.\" 2 Corinthians 4:2",
+        "Watch your mouth. You have people's confidence and do not want to violate it. \"A dishonest man spreads strife, and a whisperer separates close friends.\" Proverbs 16:28",
+        "Protect others' right to be in the room.",
+        "Be a warm demander. Call people up to excellence."
+      ]
+    },
+    {
+      "name": "Pride",
+      "weight": 1,
+      "items": [
+        "God, grant me character that is greater than my gifts and humility that is greater than my influence.",
+        "Keep your head. Do your work. Share in suffering and share the gospel. (2 Tim. 4:5)",
+        "Pray in moments of pride: God help me to forget myself and simply do my work. Help me to focus on what is important now. What do you have that you have not received? The world does not revolve around you. We live for an audience of one.",
+        "God, make me dead to applause.",
+        "\"The crucible is for silver, and the furnace is for gold, and a man is tested by his praise.\" Proverbs 27:21",
+        "\"For an overseer as God's steward must not be arrogant.\" Titus 1:7",
+        "In a conversation with C.S. Lewis on the dangers of celebrity culture, a friend asked Lewis if he was aware that such a thing was surrounding him. Lewis replied, \"One cannot be too careful not to think of it.\""
+      ]
+    },
+    {
+      "name": "Hard Work",
+      "weight": 1,
+      "items": [
+        "Do the hard thing. Do hard things. (2 Tim. 2:3)",
+        "Be comfortable with the uncomfortable. You need to starve the flesh.",
+        "The work is the reward. Enjoy the activity for itself.",
+        "When you hit struggle tell yourself, \"I like this. This is when I really grow.\"",
+        "Derive pleasure from the difficulty.",
+        "Pain is good. Pain means growth.",
+        "No fire, no refinement. No battle, no victory.",
+        "Smooth seas never made a skilled sailor. Easy wars never made a capable soldier.",
+        "To be quietly competent, and though I am skilled and able in something, not to \"put myself forward in the presence of a king.\" For it is better to be told \"come up here\" than to be put down in the presence of a noble. (Proverbs 25:7)",
+        "To have high expectations of myself, and when I fail, to rebuke myself sharply.",
+        "To let another praise me, and not my own mouth.",
+        "To live with all my might while I do live. (Jonathan Edwards)",
+        "Be obsessed with the process, not the result. (Nick Saban)",
+        "To be the ox between the plow and the altar, ready to work or to be sacrificed at a moment's notice.",
+        "Skills are produced from struggle.",
+        "It was said of Michael Jordan that he was like a race horse lathering. That the harder it got, the harder he worked.",
+        "Health of mind and health of body go hand in hand. If God allows, I want to maintain a healthy body for the sake of a healthy mind. This also affects how well I can love my wife and children, God willing. How can a heavy-set man play with his child? Love his wife? Allowing myself to lose control in this area is decidedly selfish, or lazy. \"God has given us a spirit of love, power, and self-control.\" 2 Tim. 1:7",
+        "God is not interested in what I can do for him, he is interested in me! Oh to have joy in this, abounding joy, full joy. I don't want to be so burdened that I forget joy. \"I know your works, your toil and your patient endurance... But I have this against you, that you have abandoned the love you had at first. Remember therefore from where you have fallen; repent, and do the works you did at first.\" Revelation 2:2-5",
+        "God loves when we call out false teachers.",
+        "God wants a people who delight in him more than anything else, a people that find him more entertaining than entertainment! More amusing than a close friend, more lovely than a bride, and sweeter than chocolate! Let this be an object of consideration and affect your other principles.",
+        "If I abide in Christ I will bear much fruit. To be simply abiding, simply abiding.",
+        "\"I cannot work my soul to save, for that my Lord has done; but I would work like any slave, for love of God's dear Son.\"",
+        "Enjoy victory, and then look for ways to repeat it, and do it better. Always have a taste of victory make you hunger for more victory. Never allow a taste of victory to quench your thirst for more victory.",
+        "Stay hungry and focused on progress.",
+        "\"When your memories are more exciting than your dreams, you've begun to die.\"",
+        "\"Once you reach the top of the mountain, you have got to build another one. There's a lot of mediocre people who have a nice resume.\" David Goggins",
+        "Do not let others' expectations limit you, nor let their limitations limit you. Just because someone else cannot do it does not mean you are unable to do it. Don't let other people tell you what your best is.",
+        "Don't allow the time you get up and the time that you go to bed to remain an undisciplined area of your life. Fight with a holy violence against your soft self to get up, and to go to bed at the times that most glorify God. For me, and I believe for most Christians, that means going to bed early and rising early. Like the psalmist (Ps. 119:147) and like Jesus our Lord.",
+        "\"As a door turns on its hinges, so does a sluggard in his bed.\" Proverbs 26:14",
+        "I want to be the person who reports back \"I did it,\" not \"I'm going to do it.\"",
+        "Doing one thing at a time, and focusing all of my energy, all of my heart, all of my mind, all of my strength, everything that I can give, not in five different areas at once, but in one area, and thereby make great improvements in one area. To put my shoulder against the point of greatest productivity and push.",
+        "\"What God has for you, no mortal man can take from you, therefore you do not need to compete nor compare.\" Crawford Loritts (Acts 17:6)",
+        "As a man, I know that in all my working, I cannot repay back an ounce to God, for in him is all our strength.",
+        "Remember that other men have done greater things with fewer tools.",
+        "Do what is meaningful, not convenient. Purpose comes through sacrifice for God.",
+        "Enjoy and move on. Remember that pleasure is a gift, not your God. (Proverbs 25:16)",
+        "There cannot be strength without resistance. There cannot be a warrior without a war. There cannot be honor without sacrifice. There cannot be a victory without a fight. There cannot be bravery without something to fear.",
+        "Hard work, works."
+      ]
+    },
+    {
+      "name": "Vision",
+      "weight": 1,
+      "items": [
+        "Vision without discipline equals a dreamer. Discipline without vision equals drudgery. But there can be no limits to vision with discipline.",
+        "\"If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.\" Antoine de Saint-Exupery, The Little Prince",
+        "Walk as a king. \"If you endure, you will reign with him.\" (2 Timothy 2:12; Exodus 19:6; Revelation 1:6; Romans 2:7)",
+        "What does it mean to be a king? Responsibility, status, authority. Honor, glory, immortality (Rom. 2:7).",
+        "\"The one who conquers, I will grant him to sit with me on my throne, as I also conquered and sat down with my Father on his throne.\" Revelation 3:21",
+        "God has exalted criminals to the status of kings. Unbelievably, you are a son of the King of Kings. There is no royalty that surpasses your family bloodline. You are a prince of the highest line, and may one day judge angels (1 Cor. 6:3).",
+        "\"Most amazingly, God makes much of us for his glory by granting us to sit with Christ on his throne. We are destined to share in the governing of the universe with divine-like authority.\" Piper, Brothers, We Are Not Professionals",
+        "Remember that the Bible is a blood-stained book. The blood of martyrs and translators colors its pages. \"There is not a truth which has not been sealed by them at the stake, or the block, or far away on the lofty mountains, where they have been slain by hundreds.\" (Spurgeon) A man will live to honor their memories and guard the deposit passed down."
+      ]
+    },
+    {
+      "name": "Focus",
+      "weight": 1,
+      "items": [
+        "Do one thing relentlessly.",
+        "Do the hard thing.",
+        "Spin the flywheel.",
+        "\"Focus is saying no.\" Steve Jobs",
+        "\"Mute the world and then build your own.\" David Senra"
+      ]
+    },
+    {
+      "name": "Phrases to Use in Conversation",
+      "weight": 1,
+      "items": [
+        "If you want life to change, you have to change. If you want life to get better, you have to get better. (Jim Rohn)",
+        "You have to do what's right, not what you like.",
+        "You can't say comparison without sin.",
+        "God always does his work through his word.",
+        "Without fear there is no courage. Without sacrifice there is no honor.",
+        "Where there is no fight, there is no warrior. Where there is no resistance there will be no strength.",
+        "Be \"brilliant at the basics.\" Vince Lombardi",
+        "Be the work great or small, do it well or not at all.",
+        "Your humanity connects. Your godliness inspires.",
+        "We may impress people with our strengths, but we connect with people through our weaknesses.",
+        "\"Live near to God and love the souls of men.\" Spurgeon, to the Pastors' College students",
+        "Live near to God, lead your family well, and love the souls of men.",
+        "It is easier to correct than to do what is correct.",
+        "You want your ear to be bigger than your mouth.",
+        "A clear no is kinder than a wishy-washy maybe.",
+        "Simple scales, complex fails.",
+        "The only easy day was yesterday.",
+        "Strive to be respectable, not likeable.",
+        "You want a sanctified stubbornness.",
+        "Problems are opportunities in disguise.",
+        "Understand the difference between excellence and perfection. Always aim for perfection in your character. Always aim for excellence in your work.",
+        "Once you get past the point of diminishing returns, spending more time on the task is not making it better, it's making a trade.",
+        "Slow is smooth. Smooth is fast.",
+        "\"Be quick, but don't hurry.\" Coach John Wooden",
+        "\"Be more concerned with your character than your reputation.\" Coach John Wooden",
+        "You cannot change the beginning of the story, but you can start now and change the ending.",
+        "You have to be an echo before you're a voice. Learn from others and don't be afraid to imitate before you are original.",
+        "Your greatest strengths will be your greatest weaknesses.",
+        "Do nothing to hurt, from hurt, or because you were hurt.",
+        "If you fail to prepare, you prepare to fail.",
+        "If you don't have time to do it right the first time, when will you have time to do it again?",
+        "If it's not your problem, then how can you fix it?",
+        "\"Successful people do consistently what others do occasionally.\" Groeschel",
+        "I can help you, but you are going to do the work.",
+        "If you want to do great things, you must discipline yourself greatly.",
+        "Humility comes before honor.",
+        "In order to get what you want, you have to do what you don't want.",
+        "Refuse to be compared in a good light to others. What good can come of it?",
+        "The same sun that melts the ice hardens the clay.",
+        "\"Live so as to be missed.\" Robert Murray McCheyne",
+        "God, give me thick skin and a soft heart.",
+        "When we cease to bleed, we cease to bless.",
+        "Better an hour early than a minute late.",
+        "Work the system, because the system works.",
+        "Sometimes you have to play the game.",
+        "\"Do you want to be saved God's way?\" Archibald G. Brown",
+        "\"Sow the seed everywhere.\" Archibald G. Brown and the Bible",
+        "\"Believe you can and you're halfway there.\" Roosevelt",
+        "\"Whether you think you can or you can't, you're right.\" Henry Ford",
+        "You can't lead men you're afraid of."
+      ]
+    },
+    {
+      "name": "Eight Paradoxes of Leadership",
+      "weight": 1,
+      "items": [
+        "Confident and humble.",
+        "Driven and healthy.",
+        "Direct and kind.",
+        "Empowering and controlling.",
+        "Focused and flexible.",
+        "Frugal and abundant.",
+        "Optimistic and realistic.",
+        "Urgent and patient.",
+        "God, give me the boldness that comes from humility and fear of God. Give me a holy ambition which stewards my body, give me the same direct but kind disposition you had, help me as a leader to empower others but make sure the product is excellent."
+      ]
+    }
+  ],
+
+  "wedding_vows": [
+    "Before God and these witnesses.",
+    "I, Geb, give myself to be your husband. Through God's strength and for his glory.",
+    "I commit myself to love you as Christ loves the church. I resolve to love you thoughtfully and not selfishly.",
+    "I marry you with the conviction that to be a good husband I must know, worship, and serve God first of all.",
+    "As I depend on the Lord, I pledge to lead you closer to Christ each day.",
+    "In your failures, he is sufficient. In your victories, he is magnified. And in our hard times, we will trust in his strength and grace alone. This leaves you with no pressure to perform or earn my love.",
+    "I am committing to you now and to the person you will become. I promise to stand by your side and to serve you.",
+    "I promise to be your best friend and your intimate community.",
+    "I commit to lay down my life for you and to love you as I lead and protect you as Christ leads us.",
+    "Before our heavenly Father, I pledge to you and to Jesus Christ our Lord that, with the Holy Spirit's aid, only death or Christ's return alone will break this covenant bond."
+  ],
+
+  "footer": "I live in the way I shall wish I had, when I come to die."
+}
