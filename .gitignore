@@ -1,0 +1,22 @@
+# Build outputs
+/build/
+/app/build/
+*.apk
+*.aab
+
+# Gradle
+.gradle/
+gradle-app.setting
+
+# Local machine config — sdk.dir is per-developer
+local.properties
+
+# Keystores — never commit these
+*.jks
+*.keystore
+release-keystore.jks
+
+# IDE
+.idea/
+*.iml
+.DS_Store
